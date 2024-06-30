@@ -1,4 +1,4 @@
-# SRMIST_23VIS47SRM_Pixel_shifter_DPD_image_using_generative_AI
+# Monocular depth estimation
 
 ## Overview
 
